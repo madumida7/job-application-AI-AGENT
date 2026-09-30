@@ -1,0 +1,7 @@
+{
+  "name": "Job Application Agent - Google Colab Hub",
+  "description": "Complete Job Application AI Agent generator, Google Colab notebook (.ipynb), RAG resume retriever, budget calculator, and Gradio interface with Groq and Tavily integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
